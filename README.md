@@ -60,9 +60,6 @@ We had a time frame of a week . This was the first Peer Programming for all of u
 
  Thank  you.
 
-
- For this project, our team put so many efforts to make look like official website, even when we are working from home.
- GitHub repository link of our "Banggood E-commerce Website" : https://github.com/ribhar/PharmEasy-clone.git
 ## Tech Stack
 
 *Client:* HTML-40%,   
